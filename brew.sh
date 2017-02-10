@@ -11,9 +11,11 @@ brew upgrade
 # Use brew cask
 brew tap caskroom/cask
 
+brew cask install alfred
 brew cask install iterm2
 brew cask install astrill
 brew cask install caffeine
+brew cask install chrome
 brew cask install folx
 brew cask install calibre
 brew cask install appzapper
@@ -33,6 +35,7 @@ brew cask install sqlitebrowser
 brew cask install sublime-text
 brew cask install visual-studio-code
 brew cask install vlc
+
 
 #  Apps in the Mac App store (requires prior login, version should be the latest
 brew install mas
